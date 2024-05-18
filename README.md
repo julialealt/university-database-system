@@ -1,2 +1,2 @@
-# Trabalho-FBD
-Trabalho da disciplina de Fundamentos de Banco de Dados (2022.2) que implementa um simples banco de dados de um Sistema Universitário utilizando Python em conjunto com o programa pgAdmin.
+## university-database-system
+Database system of a university using Python and pgAdmin program.
